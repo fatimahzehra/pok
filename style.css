@@ -1,0 +1,30 @@
+.firstimg{
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: 220px;
+}
+.secondimg{
+    display: inline;
+    margin-left: 230px;
+}
+.thirdimg{
+    margin-left: 225px;
+    position: relative;
+    top: 30px; 
+}
+.fourthimg{
+    margin-left:810px ;
+    position: relative;
+    bottom:350px ;
+}
+.w{
+    border: 2px double black;
+    background-color: orange;
+    width: 575px;
+    margin-left: 225px;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    top: 26px;
+    }
